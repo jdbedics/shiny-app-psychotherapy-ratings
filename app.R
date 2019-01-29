@@ -28,7 +28,7 @@ library(janitor)
 #  clean_names()
 
 # import data from r project
-class_raw <- readr::read_csv("./data/CPPS Rating Form (PSYC 532).csv") %>% clean_names()
+class_raw <- readr::read_csv("./CPPS Rating Form (PSYC 532).csv") %>% clean_names()
 
 
 
