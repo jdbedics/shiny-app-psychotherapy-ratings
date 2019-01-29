@@ -1,4 +1,4 @@
-<h1><center>  Shiny App for Student's Ratings of Professional Therapy </h1></center>
+<h1><center>  Shiny App for Student's Ratings of Psychotherapy </h1></center>
 <h2><center> Clinical Behavioral Methods at CLU (PSYC 523/PSYD 745)</h2></center>
 
 Graduate students in clinical psychology watch videos of psychotherapy from a vareity of theoretical orienations within the cognitive-behavioral tradition. Students complete the [Comparative Psychotherapy Process Scale](http://supp.apa.org/psycarticles/supplemental/pst_42_3_340/pst_hilsenroth0110_web_supplement.pdf) by Hilsenroth and rate a series of videos
@@ -7,7 +7,7 @@ Graduate students in clinical psychology watch videos of psychotherapy from a va
 
 Students complete the CPPS using a Google Form:
 
-<img src="https://raw.githubusercontent.com/jdbedics/shiny-app-psychotherapy-ratings/master/form.png" width="500" height="300" />
+<img src="https://raw.githubusercontent.com/jdbedics/shiny-app-psychotherapy-ratings/master/form.png" width="500" height="300" align="middle"  />
 
 ### Data Processing
 
