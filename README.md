@@ -7,7 +7,7 @@ Graduate students in clinical psychology watch videos of psychotherapy from a va
 
 Students complete the CPPS using a Google Form:
 
-![](https://raw.githubusercontent.com/jdbedics/shiny-app-psychotherapy-ratings/master/form.png)
+<img src="https://raw.githubusercontent.com/jdbedics/shiny-app-psychotherapy-ratings/master/form.png" width="500" height="300" />
 
 ### Data Processing
 
